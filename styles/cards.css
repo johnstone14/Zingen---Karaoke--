@@ -1,0 +1,16 @@
+.cards {
+    border-radius: 1.5rem;
+    margin-top: 48px;
+    padding-top: 24px;
+
+    & h3 {
+        margin-top: 1rem;
+    }
+}
+
+.card {
+    background: var(--surface-color);
+    border: 1px solid var(--stroke-color);
+    border-radius: 1.5rem;
+    padding-top: 24px;
+}
